@@ -1,4 +1,4 @@
-# Olá, eu sou o André
+# Olá, eu sou o André Cia
 
 Trabalho com inteligência artificial aplicada ao dia a dia de quem produz
 conteúdo e vende na internet. O que eu testo e aprovo, eu publico aqui de
